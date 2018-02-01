@@ -198,7 +198,7 @@ class SlippyMap {
 			$output .= "<style> .buttonsPanel .resetButtonItemInactive       { width:36px; height:19px; background-image:url('" . $wgScriptPath . "/extensions/SlippyMap/reset-button.png'); }</style>\n";
 
 			$output .= "<!-- bring in the OpenLayers javascript library -->";
-			$output .= "<script src=\"https://www.openstreetmap.org/openlayers/OpenLayers.js\"></script> ";
+			$output .= "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/openlayers/2.12/OpenLayers.min.js\"></script> ";
 
 			$output .= "<!-- bring in the OpenStreetMap OpenLayers layers. ";
 			$output .= "     Using this hosted file will make sure we are kept up ";
