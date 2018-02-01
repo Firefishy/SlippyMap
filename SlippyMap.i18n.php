@@ -27,7 +27,7 @@
 $messages = array();
 
 $messages['en'] = array(
-	'slippymap_desc' => "Allows the use of the <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> tag to display an OpenLayers slippy map. Maps are from [http://openstreetmap.org openstreetmap.org]",
+	'slippymap_desc' => "Allows the use of the <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> tag to display an OpenLayers slippy map. Maps are from [https://www.openstreetmap.org openstreetmap.org]",
 	'slippymap_latmissing' => "Missing lat value (for the latitude).",
 	'slippymap_lonmissing' => "Missing lon value (for the longitude).",
 	'slippymap_zoommissing' => "Missing z value (for the zoom level).",
@@ -50,7 +50,7 @@ $messages['en'] = array(
 	'slippymap_zoombig' => "zoom (z) value cannot be greater than 17.",
 	'slippymap_invalidlayer' => "Invalid 'layer' value '%1'",
 	'slippymap_maperror' => "Map error:",
-	'slippymap_osmlink' => 'http://www.openstreetmap.org/?lat=%1&lon=%2&zoom=%3', # do not translate or duplicate this message to other languages
+	'slippymap_osmlink' => 'https://www.openstreetmap.org/?lat=%1&lon=%2&zoom=%3', # do not translate or duplicate this message to other languages
 	'slippymap_osmtext' => 'See this map on OpenStreetMap.org',
 	'slippymap_code'    => 'Wikicode for this map view:',
 	'slippymap_button_code' => 'Get wikicode',
@@ -69,7 +69,7 @@ $messages['qqq'] = array(
  * @author Meno25
  */
 $messages['ar'] = array(
-	'slippymap_desc' => 'يسمح باستخدام وسم <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> لعرض خريطة OpenLayers لزقة. الخرائط من [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'يسمح باستخدام وسم <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> لعرض خريطة OpenLayers لزقة. الخرائط من [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'قيمة lat مفقودة (للارتفاع).',
 	'slippymap_lonmissing' => 'قيمة lon مفقودة (لخط الطول).',
 	'slippymap_zoommissing' => 'قيمة z مفقودة (لمستوى التقريب).',
@@ -102,7 +102,7 @@ $messages['ar'] = array(
  * @author Meno25
  */
 $messages['arz'] = array(
-	'slippymap_desc' => 'يسمح باستخدام وسم <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> لعرض خريطة OpenLayers لزقة. الخرائط من [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'يسمح باستخدام وسم <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> لعرض خريطة OpenLayers لزقة. الخرائط من [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'قيمة lat مفقودة (للارتفاع).',
 	'slippymap_lonmissing' => 'قيمة lon مفقودة (لخط الطول).',
 	'slippymap_zoommissing' => 'قيمة z مفقودة (لمستوى التقريب).',
@@ -137,7 +137,7 @@ $messages['arz'] = array(
  * @author Red Winged Duck
  */
 $messages['be-tarask'] = array(
-	'slippymap_desc' => 'Дазваляе карыстацца тэгам <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> для адлюстраваньня хуткай мапы OpenLayer. Выкарыстоўваюцца мапы [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Дазваляе карыстацца тэгам <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> для адлюстраваньня хуткай мапы OpenLayer. Выкарыстоўваюцца мапы [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Няма значэньня парамэтру lat (для шыраты).',
 	'slippymap_lonmissing' => 'Няма значэньня парамэтру lon (для даўгаты).',
 	'slippymap_zoommissing' => 'Няма значэньня парамэтру z (для маштабу).',
@@ -170,7 +170,7 @@ $messages['be-tarask'] = array(
  * @author DCLXVI
  */
 $messages['bg'] = array(
-	'slippymap_desc' => 'Позволява използването на етикета <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> за показване на OpenLayers slippy карти. Картите са от [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Позволява използването на етикета <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> за показване на OpenLayers slippy карти. Картите са от [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_zoommissing' => 'Липсваща стойност z (за степен на приближаване).',
 	'slippymap_zoomsmall' => 'стойността за приближаване (z) не може да бъде отрицателно число',
 	'slippymap_zoombig' => 'стойността за приближаване (z) не може да бъде по-голяма от 17.',
@@ -185,7 +185,7 @@ $messages['bg'] = array(
  * @author Mormegil
  */
 $messages['cs'] = array(
-	'slippymap_desc' => 'Umožňuje použití tagu <code><nowiki>&lt;slippymap&gt;</nowiki></code> pro zobrazení posuvné mapy OpenLayers. Mapy pocházejí z [http://openstreetmap.org openstreetmap.org].',
+	'slippymap_desc' => 'Umožňuje použití tagu <code><nowiki>&lt;slippymap&gt;</nowiki></code> pro zobrazení posuvné mapy OpenLayers. Mapy pocházejí z [https://www.openstreetmap.org openstreetmap.org].',
 	'slippymap_latmissing' => 'Chybí hodnota lat (zeměpisná šířka)',
 	'slippymap_lonmissing' => 'Chybí hodnota lon (zeměpisná délka)',
 	'slippymap_zoommissing' => 'Chybí hodnota z (úroveň přiblížení)',
@@ -219,7 +219,7 @@ $messages['cs'] = array(
  * @author Umherirrender
  */
 $messages['de'] = array(
-	'slippymap_desc' => 'Ermöglicht die Nutzung des <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-Tags zur Anzeige einer OpenLayer-SlippyMap. Die Karten stammen von [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Ermöglicht die Nutzung des <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-Tags zur Anzeige einer OpenLayer-SlippyMap. Die Karten stammen von [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Es wurde kein Wert für die geografische Breite (lat) angegeben.',
 	'slippymap_lonmissing' => 'Es wurde kein Wert für die geografische Länge (lon) angegeben.',
 	'slippymap_zoommissing' => 'Es wurde kein Zoom-Wert (z) angegeben.',
@@ -252,7 +252,7 @@ $messages['de'] = array(
  * @author Michawiki
  */
 $messages['dsb'] = array(
-	'slippymap_desc' => 'Zmóžnja wužywanje toflicki <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> za zwobraznjenje pśesuwajobneje kórty OpenLayer. Kórty su z [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Zmóžnja wužywanje toflicki <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> za zwobraznjenje pśesuwajobneje kórty OpenLayer. Kórty su z [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Gódnota za šyrinu (lat) felujo.',
 	'slippymap_lonmissing' => 'Gódnota za dlininu (lon) felujo.',
 	'slippymap_zoommissing' => 'Gódnota za skalěrowanje (z) felujo.',
@@ -316,7 +316,7 @@ $messages['eu'] = array(
  * @author Vililikku
  */
 $messages['fi'] = array(
-	'slippymap_desc' => 'Mahdollistaa <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-elementin käytön OpenLayers slippy map -kartan näyttämiseen. Kartat ovat osoitteesta [http://openstreetmap.org openstreetmap.org].',
+	'slippymap_desc' => 'Mahdollistaa <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-elementin käytön OpenLayers slippy map -kartan näyttämiseen. Kartat ovat osoitteesta [https://www.openstreetmap.org openstreetmap.org].',
 	'slippymap_latmissing' => 'Puuttuva ”lat”-arvo leveysasteille.',
 	'slippymap_lonmissing' => 'Puuttuva ”lon”-arvo pituusasteille.',
 	'slippymap_zoommissing' => 'Puuttuva ”z”-arvo zoomaukselle.',
@@ -350,7 +350,7 @@ $messages['fi'] = array(
  * @author Grondin
  */
 $messages['fr'] = array(
-	'slippymap_desc' => 'Autorise l’utilisation de la balise <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> pour afficher une carte glissante d’OpenLayers. Les cartes proviennent de [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Autorise l’utilisation de la balise <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> pour afficher une carte glissante d’OpenLayers. Les cartes proviennent de [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Valeur lat manquante (pour la latitude).',
 	'slippymap_lonmissing' => 'Valeur lon manquante (pour la longitude).',
 	'slippymap_zoommissing' => 'Valeur z manquante (pour le niveau du zoom).',
@@ -383,7 +383,7 @@ $messages['fr'] = array(
  * @author Toliño
  */
 $messages['gl'] = array(
-	'slippymap_desc' => 'Permite o uso da etiqueta <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> para amosar un mapa slippy. Os mapas son de [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Permite o uso da etiqueta <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> para amosar un mapa slippy. Os mapas son de [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Falta o valor lat (para a latitude).',
 	'slippymap_lonmissing' => 'Falta o valor lan (para a lonxitude).',
 	'slippymap_zoommissing' => 'Falta o valor z (para o nivel do zoom).',
@@ -416,7 +416,7 @@ $messages['gl'] = array(
  * @author Als-Holder
  */
 $messages['gsw'] = array(
-	'slippymap_desc' => 'Macht s megli s <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-Tag z nutze fir zum Aazeige vun ere OpenLayer-SlippyMap. D Charte stamme vu [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Macht s megli s <tt><nowiki>&lt;slippymap&gt;</nowiki></tt>-Tag z nutze fir zum Aazeige vun ere OpenLayer-SlippyMap. D Charte stamme vu [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'S isch kei Wärt fir di geografisch Breiti (lat) aagee wore.',
 	'slippymap_lonmissing' => 'S isch kei Wärt fir di geografisch Lengi (lon) aagee wore.',
 	'slippymap_zoommissing' => 'S isch kei Zoom-Wärt (z) aagee wore.',
@@ -450,7 +450,7 @@ $messages['gsw'] = array(
  * @author YaronSh
  */
 $messages['he'] = array(
-	'slippymap_desc' => 'מתן האפשרות לשימוש בתגית <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> להצגת מפת OpenLayers רדומה. המפות הן מהאתר [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'מתן האפשרות לשימוש בתגית <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> להצגת מפת OpenLayers רדומה. המפות הן מהאתר [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'ערך ה־lat חסר (עבור קו־הרוחב).',
 	'slippymap_lonmissing' => 'ערך ה־lon חסר(עבור קו־האורך).',
 	'slippymap_zoommissing' => 'ערך ה־z חסר (לרמת ההגדלה).',
@@ -483,7 +483,7 @@ $messages['he'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'slippymap_desc' => 'Zmóžnja wužiwanje taflički <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> za zwobraznjenje posuwneje karty OpenLayer. Karty su z [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Zmóžnja wužiwanje taflički <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> za zwobraznjenje posuwneje karty OpenLayer. Karty su z [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Hódnota za šěrinu (lat) pobrachuje',
 	'slippymap_lonmissing' => 'Hódnota za geografisku dołhosć (lon) pobrachuje.',
 	'slippymap_zoommissing' => 'Hódnota za skalowanje (z) pobrachuje.',
@@ -516,7 +516,7 @@ $messages['hsb'] = array(
  * @author McDutchie
  */
 $messages['ia'] = array(
-	'slippymap_desc' => 'Permitte le uso del etiquetta <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> pro monstrar un carta glissante de OpenLayers. Le cartas proveni de [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Permitte le uso del etiquetta <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> pro monstrar un carta glissante de OpenLayers. Le cartas proveni de [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Valor lat mancante (pro le latitude).',
 	'slippymap_lonmissing' => 'Valor lon mancante (pro le longitude).',
 	'slippymap_zoommissing' => 'Valor z mancante (pro le nivello de zoom).',
@@ -549,7 +549,7 @@ $messages['ia'] = array(
  * @author Darth Kule
  */
 $messages['it'] = array(
-	'slippymap_desc' => "Permette l'utilizzo del tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> per visualizzare una mappa OpenLayers. Le mappe sono prese da [http://openstreetmap.org openstreetmap.org]",
+	'slippymap_desc' => "Permette l'utilizzo del tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> per visualizzare una mappa OpenLayers. Le mappe sono prese da [https://www.openstreetmap.org openstreetmap.org]",
 	'slippymap_latmissing' => 'Manca il valore lat (per la latitudine).',
 	'slippymap_lonmissing' => 'Manca il valore lon (per la longitudine).',
 	'slippymap_zoommissing' => 'Manca il valore z (per il livello dello zoom).',
@@ -582,7 +582,7 @@ $messages['it'] = array(
  * @author Fryed-peach
  */
 $messages['ja'] = array(
-	'slippymap_desc' => 'OpenLayers による滑らかな地図を表示するための <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> タグを利用できるようにする。地図は [http://openstreetmap.org openstreetmap.org] から取得される',
+	'slippymap_desc' => 'OpenLayers による滑らかな地図を表示するための <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> タグを利用できるようにする。地図は [https://www.openstreetmap.org openstreetmap.org] から取得される',
 	'slippymap_latmissing' => '緯度値 lat が指定されていません。',
 	'slippymap_lonmissing' => '経度値 lon が指定されていません。',
 	'slippymap_zoommissing' => '拡大度 z が指定されていません。',
@@ -645,7 +645,7 @@ $messages['km'] = array(
  * @author Purodha
  */
 $messages['ksh'] = array(
-	'slippymap_desc' => 'Deit dä Befääl <tt> <nowiki>&lt;slippymap&gt;</nowiki> </tt> em Wiki dobei, öm en <i lang="en">OpenLayers slippy map</i> Kaat aanzezeije. De Landkaate-Date kumme dobei fun <i lang="en">[http://openstreetmap.org openstreetmap.org]</i> her.',
+	'slippymap_desc' => 'Deit dä Befääl <tt> <nowiki>&lt;slippymap&gt;</nowiki> </tt> em Wiki dobei, öm en <i lang="en">OpenLayers slippy map</i> Kaat aanzezeije. De Landkaate-Date kumme dobei fun <i lang="en">[https://www.openstreetmap.org openstreetmap.org]</i> her.',
 	'slippymap_latmissing' => "Dä Wäät 'lat' för de Breed om Jlobus es nit aanjejovve.",
 	'slippymap_lonmissing' => "Dä Wäät 'lon' för de Läng om Jlobus es nit aanjejovve.",
 	'slippymap_zoommissing' => "Dä Wäät 'z' för dä Zoom es nit aanjejovve.",
@@ -670,7 +670,7 @@ Opjepaß: Hee dä Zosatz zor MediaWiki-ßoffwäer deiht de
 <i lang="en">OpenStreetMap</i>-Kaate vum Tüp
 \'<i lang="en">Osmarender</i>\' enbenge, wo dä Zoom bes 17 jeiht.
 De \'<i lang="en">Mapnik</i>\' Kaate sen och op
-http://openstreetmap.org/ ze fenge, un dänne iere Zoom jeiht bes 18.',
+https://www.openstreetmap.org/ ze fenge, un dänne iere Zoom jeiht bes 18.',
 	'slippymap_zoombig' => "Dä Wäät 'z' för dä Zoom darf nit övver 17 sin.",
 	'slippymap_invalidlayer' => "„%1“ es ene onjöltije Wäät för 'Schesch'.",
 	'slippymap_maperror' => 'Fähler met dä Kaat:',
@@ -684,7 +684,7 @@ http://openstreetmap.org/ ze fenge, un dänne iere Zoom jeiht bes 18.',
  * @author Robby
  */
 $messages['lb'] = array(
-	'slippymap_desc' => "Erméiglecht d'Benotzung vum Tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> fir eng ''OpenLayers slippy map'' ze weisen. D'kaarte si vun [http://openstreetmap.org openstreetmap.org]",
+	'slippymap_desc' => "Erméiglecht d'Benotzung vum Tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> fir eng ''OpenLayers slippy map'' ze weisen. D'kaarte si vun [https://www.openstreetmap.org openstreetmap.org]",
 	'slippymap_longdepreciated' => "Benitzt w.e.g. 'lon' aplaz vun  'long' (de parameter gouf ëmbennnt)",
 	'slippymap_widthnan' => "Breet (w) de Wert '%1' ass keng gëlteg ganz Zuel",
 	'slippymap_zoomnan' => "Zoom (z) de Wert '%1' ass keng gëlteg ganz Zuel",
@@ -712,7 +712,7 @@ $messages['nah'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'slippymap_desc' => 'Laat het gebruik van de tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> toe om een OpenLayers-kaart weer te geven. Kaarten zijn van [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Laat het gebruik van de tag <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> toe om een OpenLayers-kaart weer te geven. Kaarten zijn van [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'De "lat"-waarde ontbreekt (voor de breedte).',
 	'slippymap_lonmissing' => 'De "lon"-waarde ontbreekt (voor de lengte).',
 	'slippymap_zoommissing' => 'De "z"-waarde ontbreekt (voor het zoomniveau).',
@@ -745,7 +745,7 @@ $messages['nl'] = array(
  * @author Harald Khan
  */
 $messages['nn'] = array(
-	'slippymap_desc' => 'Tillét bruk av merket <tt>&lt;slippymap&gt;</tt> for å syna eit «slippy map» frå OpenLayers. Karti kjem frå [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Tillét bruk av merket <tt>&lt;slippymap&gt;</tt> for å syna eit «slippy map» frå OpenLayers. Karti kjem frå [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Manglar «lat»-verdi (for breiddegrad).',
 	'slippymap_lonmissing' => 'Manglar «lon»-verdi (for lengdegrad).',
 	'slippymap_zoommissing' => 'Manglar «z»-verdi (for zoom-nivået).',
@@ -779,7 +779,7 @@ $messages['nn'] = array(
  * @author Jon Harald Søby
  */
 $messages['no'] = array(
-	'slippymap_desc' => 'Tillater bruk av taggen <tt>&lt;slippymap&gt;</tt> for å vise et «slippy map» fra OpenLayers. Kartene kommer fra [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Tillater bruk av taggen <tt>&lt;slippymap&gt;</tt> for å vise et «slippy map» fra OpenLayers. Kartene kommer fra [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Mangler «lat»-verdi (for breddegraden).',
 	'slippymap_lonmissing' => 'Mangler «lon»-verdi (for lengdegraden).',
 	'slippymap_zoommissing' => 'Mangler «z»-verdi (for zoom-nivået).',
@@ -812,7 +812,7 @@ $messages['no'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
-	'slippymap_desc' => 'Autoriza l’utilizacion de la balisa <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> per afichar una mapa lisanta d’OpenLayers. Las mapas provenon de [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Autoriza l’utilizacion de la balisa <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> per afichar una mapa lisanta d’OpenLayers. Las mapas provenon de [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Valor lat mancanta (per la latitud).',
 	'slippymap_lonmissing' => 'Valor lon mancanta (per la longitud).',
 	'slippymap_zoommissing' => 'Valor z mancanta (pel nivèl del zoom).',
@@ -854,7 +854,7 @@ $messages['pl'] = array(
  * @author Waldir
  */
 $messages['pt'] = array(
-	'slippymap_desc' => 'Permite o uso da marca <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> para apresentar um mapa corrediço OpenLayers. Os mapas provêm de [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Permite o uso da marca <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> para apresentar um mapa corrediço OpenLayers. Os mapas provêm de [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Faltando o valor lat (para a latitude).',
 	'slippymap_lonmissing' => 'Faltando o valor lon (para a longitude).',
 	'slippymap_zoommissing' => 'Falta valor z (para o nível de zoom).',
@@ -903,7 +903,7 @@ $messages['ru'] = array(
  * @author Helix84
  */
 $messages['sk'] = array(
-	'slippymap_desc' => 'Umožňuje použitie značky <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> na zobrazenie posuvnej mapy OpenLayers. Mapy sú z [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Umožňuje použitie značky <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> na zobrazenie posuvnej mapy OpenLayers. Mapy sú z [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Chýba hodnota lat (rovnobežka).',
 	'slippymap_lonmissing' => 'Chýba hodnota lon (poludník).',
 	'slippymap_zoommissing' => 'Chýba hodnota z (úroveň priblíženia)',
@@ -937,7 +937,7 @@ $messages['sk'] = array(
  * @author M.M.S.
  */
 $messages['sv'] = array(
-	'slippymap_desc' => 'Tillåter användning av taggen <tt>&lt;slippymap&gt;</tt> för att visa "slippy map" från OpenLayers. Kartorna kommer från [http://openstreetmap.org openstreetmap.org]',
+	'slippymap_desc' => 'Tillåter användning av taggen <tt>&lt;slippymap&gt;</tt> för att visa "slippy map" från OpenLayers. Kartorna kommer från [https://www.openstreetmap.org openstreetmap.org]',
 	'slippymap_latmissing' => 'Saknat "lat"-värde (för breddgraden).',
 	'slippymap_lonmissing' => 'Saknat "lon"-värde (för längdgraden).',
 	'slippymap_zoommissing' => 'Saknat z-värde (för zoom-nivån).',
@@ -977,7 +977,7 @@ $messages['te'] = array(
  * @author AnakngAraw
  */
 $messages['tl'] = array(
-	'slippymap_desc' => "Nagpapahintulot sa paggamit ng tatak na <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> upang maipakita/mapalitaw ang isang pampuwesto/pangkinaroroonang (''slippy'') mapa ng OpenLayers.  Nanggaling ang mga mapa mula sa [http://openstreetmap.org openstreetmap.org]",
+	'slippymap_desc' => "Nagpapahintulot sa paggamit ng tatak na <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> upang maipakita/mapalitaw ang isang pampuwesto/pangkinaroroonang (''slippy'') mapa ng OpenLayers.  Nanggaling ang mga mapa mula sa [https://www.openstreetmap.org openstreetmap.org]",
 	'slippymap_latmissing' => 'Nawawalang halaga para sa latitud (lat).',
 	'slippymap_lonmissing' => 'Nawawalang halaga para sa longhitud (lon).',
 	'slippymap_zoommissing' => "Nawawalang halagang 't' (mula sa 'tutok') para sa antas ng paglapit/pagtutok (''zoom'').",
@@ -1010,7 +1010,7 @@ $messages['tl'] = array(
  * @author Minh Nguyen
  */
 $messages['vi'] = array(
-	'slippymap_desc' => 'Thêm thẻ <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> để nhúng bản đồ trơn OpenLayers. Các bản đồ do [http://openstreetmap.org openstreetmap.org] cung cấp.',
+	'slippymap_desc' => 'Thêm thẻ <tt><nowiki>&lt;slippymap&gt;</nowiki></tt> để nhúng bản đồ trơn OpenLayers. Các bản đồ do [https://www.openstreetmap.org openstreetmap.org] cung cấp.',
 	'slippymap_latmissing' => 'Thiếu giá trị lat (vĩ độ).',
 	'slippymap_lonmissing' => 'Thiếu giá trị lon (kinh độ).',
 	'slippymap_zoommissing' => 'Thiếu giá trị z (cấp thu phóng).',
